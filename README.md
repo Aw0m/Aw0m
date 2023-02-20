@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Awom</h1>
-<h3 align="center">A junior from Chongqing University, majoring in computer science and technology</h3>
+<h3 align="center">A Senior from Chongqing University, majoring in computer science and technology</h3>
 
 <!--
 **Aw0m/Aw0m** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

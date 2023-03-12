@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 -->
 - 🔭 I’m currently working on ByteDance(Capcut-Server) as an intern
 - 🌱 I’m currently learning **Golang**
-- 📫 How to reach me: **liawom@foxmail.com**
+- 📫 How to reach me: **liawom@foxmail.com** / **641022087@qq.com**
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aw0m&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 

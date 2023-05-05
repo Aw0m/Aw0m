@@ -19,6 +19,6 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning **Golang**
 - 📫 How to reach me: **liawom@foxmail.com** / **641022087@qq.com**
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aw0m&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aw0m&layout=compact&hide=javascript,html)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Aw0m&show_icons=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
